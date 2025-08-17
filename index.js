@@ -166,7 +166,7 @@ let item=[{
 },
 {
   id:4,
-  title:'Calculator',
+  title:'dreamz_detailing',
   title_data:'dreamz_detailing is a car servicing website',
   img:'dreamz_detailing.png',
   link:''
